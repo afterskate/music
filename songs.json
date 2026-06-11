@@ -1,6 +1,356 @@
 {
   "songs": [
     {
+    "id": 81480679253705,
+    "title": "HARDCORE - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 114351467287225,
+    "title": "BARUDAK DROP - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 70898763660876,
+    "title": "BANTAY - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 116917999997319,
+    "title": "380 XSD - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 124577215889883,
+    "title": "MELEHOY - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 129372852412394,
+    "title": "MUNKS BBHC RAVE",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 71546725287492,
+    "title": "MENYE - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 123001966097032,
+    "title": "NYUNGSEP - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 82049746821574,
+    "title": "GOYANG - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 96622338606016,
+    "title": "ASOY - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 130903827565877,
+    "title": "NGEBUL - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 112883462115094,
+    "title": "GACOR - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 140112181759284,
+    "title": "KENCENG - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 127881886211021,
+    "title": "SERDADU - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 126732699385741,
+    "title": "DIPERCHAOS - BBHC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 79495948509932,
+    "title": "GATAU V1",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 130125459685528,
+    "title": "MIX#1",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 71799058525026,
+    "title": "MIX#2",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 78057909922445,
+    "title": "GELANG SIPATU GELANG",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 129782766825951,
+    "title": "CLBK",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 92996856407940,
+    "title": "NENEKKU PAHLAWANKU",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 95734811785927,
+    "title": "DE RA GO",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 126615432050909,
+    "title": "MEJIKUHIBINIU",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 130540782916563,
+    "title": "TETAP DALAM JIWA",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 88694158279472,
+    "title": "STEREO LOVE",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 82040186101444,
+    "title": "MUNKSBOUNCE#1",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 78314935464187,
+    "title": "BAD BOYS",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 117008168791813,
+    "title": "8 LETTERS",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 117193206984716,
+    "title": "POWER OF MAGIC",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 135085026828061,
+    "title": "THE FALL",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 86173751680409,
+    "title": "BEAUTIFUL LIE",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 106300282129770,
+    "title": "BEGGIN YOU",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 109872775171613,
+    "title": "SOUND OF GOOD",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 121599839768098,
+    "title": "GOLDEN ERA",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 134216067542920,
+    "title": "JAKARTA INSOMNIA",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 137066944374987,
+    "title": "LOWKEY",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 105772532429296,
+    "title": "ON THE FLOOR",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 93612478578013,
+    "title": "ZUENA ZUENA",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 139473181654167,
+    "title": "THE FINAL COUNTDOWN",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 117004092346558,
+    "title": "VOIS SUR TON CHEMIN",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 115907724082664,
+    "title": "CONCRETE ANGEL",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 76229585185786,
+    "title": "ANGEL NUMBER",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 88039432353782,
+    "title": "EN DEN DINO",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 94809478278014,
+    "title": "RENAISSANCE",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 124331984041650,
+    "title": "PAPI",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 108865649267538,
+    "title": "FREED FROM DESIRE",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 119616171297891,
+    "title": "DROP ARABIAN",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 139223543443148,
+    "title": "LOVE TONIGHT",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 105184510486146,
+    "title": "ROMANIA X HABIBI",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
+    "id": 92209552090482,
+    "title": "YUMMY",
+    "category": "RANDOM",
+    "length": 240,
+    "playbackSpeed": 1
+    },
+    {
       "id": 92465289705602,
       "title": "INDOBOUNCE - LICK IT",
       "category": "INDOBOUNCE",
