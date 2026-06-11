@@ -1350,6 +1350,27 @@
       "category": "MIX",
       "length": 240,
       "playbackSpeed": 1
+    },
+    {
+      "id": 97495619584250 ,
+      "title": "For Revenge - Penyangkalan",
+      "category": "RANDOM",
+      "length": 240,
+      "playbackSpeed": 0.5
+    },
+    {
+      "id": 108318087722495  ,
+      "title": "Lauv - Mean It Ft Lany",
+      "category": "RANDOM",
+      "length": 240,
+      "playbackSpeed": 0.5
+    },
+    {
+      "id": 112778968086810  ,
+      "title": "Killing Me Inside - Jangan Pergi Ft Tiffany",
+      "category": "RANDOM",
+      "length": 240,
+      "playbackSpeed": 0.5
     }
   ]
 }
