@@ -1,457 +1,732 @@
 {
   "songs": [
     {
+    "id": 75417947146464,
+    "title": "BADGUY",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 73113223348136,
+    "title": "IT WILL RAIN",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 115422362483915,
+    "title": "DANCING",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 129153835685243,
+    "title": "7 RINGS",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 120028417197534,
+    "title": "WHEN I WAS YOUR MAN",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 75263947967260,
+    "title": "STAY",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 112969426145583,
+    "title": "ENIE MEENIE",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 103404600463054,
+    "title": "FAVORITE GIRL",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 98752912550119,
+    "title": "IMPOSSIBLE",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 80466907305385,
+    "title": "BEAUTY AND A BEAT",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 125132523717028,
+    "title": "HEART ATTACK",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 87616279744182,
+    "title": "THE ONE THAT GOT AWAY",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 110529913279484,
+    "title": "ENCHANTED",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 114673942157160,
+    "title": "THAT SHOULD BE ME",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 113458246880847,
+    "title": "SNOOZEE",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 80059329384523,
+    "title": "SENORITA",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 101080915197739,
+    "title": "SMACKTHAT",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 109364914374947,
+    "title": "THE EMPTINESS MACHINE",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 95477027700716,
+    "title": "7 DAYS",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{
+    "id": 99420895973498,
+    "title": "JUST ANOTHER NIGHT",
+    "category": "BKB",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 85155588693251,
+    "title": "FREAK IT UPP",
+    "category": "BKB",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 108494595995936,
+    "title": "SUMBODY WATCHING ME",
+    "category": "BKB",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 85679197304352,
+    "title": "LOW",
+    "category": "BKB",
+    "length": 240,
+    "playbackSpeed": 1
+},
+    {
+    "id": 133605229228336,
+    "title": "RA: THE LOTUS OF LIFE",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 88289670930901,
+    "title": "HIGH & LOWS",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 108243247091596,
+    "title": "CLOSE TO YOU",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 76379569865656,
+    "title": "HEAD TO LEAVE",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 116581364901781,
+    "title": "TRAVIS SCOTT",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 85669979611128,
+    "title": "MW WHO WANTS A PARTY",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 97134821039805,
+    "title": "MW POPPIN IN THE CLUB",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 75469696591434,
+    "title": "MW GET DOWN",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 116754276130860,
+    "title": "MW A RAM SAM SAM",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 83496887567575,
+    "title": "DON'T LET ME DOWN",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 118156376607953,
+    "title": "IMAGINE DRAGONS",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 97815964326189,
+    "title": "BEAUTIFUL DAY",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 75062230266819,
+    "title": "LOVE ME LIKE YOU DO",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 101157376316177,
+    "title": "GHOST",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 127449885435421,
+    "title": "TERA GATA CENTRAL CEE",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+{
+    "id": 123668948553966,
+    "title": "APOLOGIZE",
+    "category": "RAP",
+    "length": 240,
+    "playbackSpeed": 1
+},
+
+    
+    {
     "id": 131558532709742,
     "title": "YALI YALI",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 91746617930092,
     "title": "EVERYBODY DANCE",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 131073616372347,
     "title": "BUBBLE BATH",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 98653830928104,
     "title": "SELIR HATI",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 120761696332015,
     "title": "MUNAJAT CINTA - BOOTLEG",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 79954000458561,
     "title": "SELAMAT ULANG TAHUN",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 139271760399756,
     "title": "TAK PANTAS TERLUKA - POP PUNK",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 82257303451853,
     "title": "RADJA CINDERELLA - POP PUNK",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 120655719700382,
     "title": "MAHEN PURA PURA LUPA - POP PUNK",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 105354194013984,
     "title": "MERINDUMU LAGI - POP PUNK",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 81480679253705,
     "title": "HARDCORE - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 114351467287225,
     "title": "BARUDAK DROP - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 70898763660876,
     "title": "BANTAY - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 116917999997319,
     "title": "380 XSD - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 124577215889883,
     "title": "MELEHOY - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 129372852412394,
     "title": "MUNKS BBHC RAVE",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 71546725287492,
     "title": "MENYE - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 123001966097032,
     "title": "NYUNGSEP - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 82049746821574,
     "title": "GOYANG - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 96622338606016,
     "title": "ASOY - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 130903827565877,
     "title": "NGEBUL - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 112883462115094,
     "title": "GACOR - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 140112181759284,
     "title": "KENCENG - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 127881886211021,
     "title": "SERDADU - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 126732699385741,
     "title": "DIPERCHAOS - BBHC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 79495948509932,
     "title": "GATAU V1",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 130125459685528,
     "title": "MIX#1",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 71799058525026,
     "title": "MIX#2",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 78057909922445,
     "title": "GELANG SIPATU GELANG",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 129782766825951,
     "title": "CLBK",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 92996856407940,
     "title": "NENEKKU PAHLAWANKU",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 95734811785927,
     "title": "DE RA GO",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 126615432050909,
     "title": "MEJIKUHIBINIU",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 130540782916563,
     "title": "TETAP DALAM JIWA",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 88694158279472,
     "title": "STEREO LOVE",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 82040186101444,
     "title": "MUNKSBOUNCE#1",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 78314935464187,
     "title": "BAD BOYS",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 117008168791813,
     "title": "8 LETTERS",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 117193206984716,
     "title": "POWER OF MAGIC",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 135085026828061,
     "title": "THE FALL",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 86173751680409,
     "title": "BEAUTIFUL LIE",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 106300282129770,
     "title": "BEGGIN YOU",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 109872775171613,
     "title": "SOUND OF GOOD",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 121599839768098,
     "title": "GOLDEN ERA",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 134216067542920,
     "title": "JAKARTA INSOMNIA",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 137066944374987,
     "title": "LOWKEY",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 105772532429296,
     "title": "ON THE FLOOR",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 93612478578013,
     "title": "ZUENA ZUENA",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 139473181654167,
     "title": "THE FINAL COUNTDOWN",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 117004092346558,
     "title": "VOIS SUR TON CHEMIN",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 115907724082664,
     "title": "CONCRETE ANGEL",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 76229585185786,
     "title": "ANGEL NUMBER",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 88039432353782,
     "title": "EN DEN DINO",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 94809478278014,
     "title": "RENAISSANCE",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 124331984041650,
     "title": "PAPI",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 108865649267538,
     "title": "FREED FROM DESIRE",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 119616171297891,
     "title": "DROP ARABIAN",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 139223543443148,
     "title": "LOVE TONIGHT",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 105184510486146,
     "title": "ROMANIA X HABIBI",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
     "id": 92209552090482,
     "title": "YUMMY",
-    "category": "RANDOM",
+    "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 1
     },
     {
       "id": 92465289705602,
-      "title": "INDOBOUNCE - LICK IT",
-      "category": "INDOBOUNCE",
+      "title": "MIX - LICK IT",
+      "category": "MIX",
       "length": 240,
       "playbackSpeed": 1
     },
     {
       "id": 92092811741825,
-      "title": "INDOBOUNCE - JIKA ITU YANG TERBAIK",
-      "category": "INDOBOUNCE",
+      "title": "MIX - JIKA ITU YANG TERBAIK",
+      "category": "MIX",
       "length": 240,
       "playbackSpeed": 1
     },
     {
       "id": 140355540541449,
-      "title": "INDOBOUNCE - REWIND",
-      "category": "INDOBOUNCE",
+      "title": "MIX - REWIND",
+      "category": "MIX",
       "length": 240,
       "playbackSpeed": 1
     },
     {
       "id": 137859038377940,
-      "title": "INDOBOUNCE - SO ASU",
-      "category": "INDOBOUNCE",
+      "title": "MIX - SO ASU",
+      "category": "MIX",
       "length": 240,
       "playbackSpeed": 1
     },
     {
       "id": 112691046689697,
-      "title": "INDOBOUNCE - GARAM CINA",
-      "category": "INDOBOUNCE",
+      "title": "MIX - GARAM CINA",
+      "category": "MIX",
       "length": 240,
       "playbackSpeed": 1
     },
@@ -1354,21 +1629,21 @@
     {
       "id": 97495619584250 ,
       "title": "For Revenge - Penyangkalan",
-      "category": "RANDOM",
+      "category": "ALLSONGS",
       "length": 240,
       "playbackSpeed": 0.5
     },
     {
       "id": 108318087722495  ,
       "title": "Lauv - Mean It Ft Lany",
-      "category": "RANDOM",
+      "category": "ALLSONGS",
       "length": 240,
       "playbackSpeed": 0.5
     },
     {
       "id": 112778968086810  ,
       "title": "Killing Me Inside - Jangan Pergi Ft Tiffany",
-      "category": "RANDOM",
+      "category": "ALLSONGS",
       "length": 240,
       "playbackSpeed": 0.5
     }
