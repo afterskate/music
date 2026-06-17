@@ -8,6 +8,27 @@
     "playbackSpeed": 0.5
 },
 {
+  "id": 106859525189937,
+    "title": "TITAN - ∀NOMALY",
+    "category": "MIX",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 100594631431758,
+    "title": "TITAN - WE ARE ALL SLEEPING",
+    "category": "MIX",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 112606015924818,
+    "title": "Dirty SLOTH",
+    "category": "MIX",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
   "id": 90232936627108,
     "title": "Big Boy",
     "category": "ALLSONGS",
@@ -66,13 +87,6 @@
 {
   "id": 127975512990112,
     "title": "Baby i got issues but i love myself",
-    "category": "ALLSONGS",
-    "length": 240,
-    "playbackSpeed": 0.5
-},
-{
-  "id": 71010316755804,
-    "title": "Worth It",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
