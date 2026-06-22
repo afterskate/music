@@ -8,9 +8,65 @@
     "playbackSpeed": 0.5
 },
 {
-  "id": 106859525189937,
+ "id": 106859525189937,
     "title": "TITAN - ∀NOMALY",
     "category": "MIX",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 96855628725380,
+    "title": "EDM&TECHNO - OCHO",
+    "category": "EDM&TECHNO",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 123278236510451,
+    "title": "EDM&TECHNO BEL MERCY",
+    "category": "EDM&TECHNO",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 74758184861490,
+    "title": "EDM&TECHNO - TNT",
+    "category": "EDM&TECHNO",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 136787028985850,
+    "title": "EDM&TECHNO - KSHMR",
+    "category": "EDM&TECHNO",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 137602047815344,
+    "title": "EDM&TECHNO - HANDZ",
+    "category": "EDM&TECHNO",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 99192777362795,
+    "title": "EDM&TECHNO - LICK IT",
+    "category": "EDM&TECHNO",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 121091973557999,
+    "title": "BREAKBEAT MUKA DUA",
+    "category": "BKB",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 75843866561087,
+    "title": "BKB - If You Let Go Go",
+    "category": "BKB",
     "length": 240,
     "playbackSpeed": 0.5
 },
