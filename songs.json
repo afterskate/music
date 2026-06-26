@@ -2,13 +2,83 @@
   "songs": [
     {
     "id": 75417947146464,
-    "title": "BADGUY",
+    "title": "Billie Eilish - bad guy",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
- "id": 106859525189937,
+ "id": 93901811244585,
+    "title": "Arctic Monkeys - I Wanna Be Yours",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+ "id": 86428951720019,
+    "title": "Adelle - Love In The Dark",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 120396216697336,
+    "title": "Olivia Rodrigo - traitor",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 108898077475618,
+    "title": "The Neighbourhood - Sweater Weather",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 80413628407361,
+    "title": "Cry - Cigarettes After Sex",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 130410258618366,
+    "title": "Joji - Glimpse of Us",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 101260712228738,
+    "title": "Lord Huron - The Night We Met",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 75422825732534,
+    "title": "Steve Chris Venes - Smile",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 74322807499056,
+    "title": "Ariana Grande - bye",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 121869873669865,
+    "title": "Taylor Swift - The Fate of Ophelia",
+    "category": "ALLSONGS",
+    "length": 240,
+    "playbackSpeed": 0.5
+},
+{ 
+  "id": 106859525189937,
     "title": "TITAN - ∀NOMALY",
     "category": "MIX",
     "length": 240,
@@ -93,14 +163,14 @@
 },
 { 
   "id": 71010316755804,
-    "title": "Worth It",
+    "title": "Fifth Harmony - Worth It",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
   "id": 139736571980554,
-    "title": "La la la",
+    "title": "Naughty Boy - La la la ft. Sam Smith",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
@@ -114,14 +184,14 @@
 },
 {
   "id": 115815562557152,
-    "title": "Havana",
+    "title": "Camila Cabello - Havana",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
   "id": 78544214030947,
-    "title": "Locked Away",
+    "title": "Adam Levine - Locked Away",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
@@ -135,7 +205,7 @@
 },
 {
   "id": 134152558095690,
-    "title": "The Weeknd",
+    "title": "The Weeknd, JENNIE Lily-Rose Depp - One Of The Girls",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
@@ -170,28 +240,28 @@
 },
 {
   "id": 106048406304892,
-    "title": "Memories",
+    "title": "Maroon 5 - Memories",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
   "id": 112394780164405,
-    "title": "The Nights",
+    "title": "Avicii - The Nights",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
   "id": 136561347473922,
-    "title": "Falling",
+    "title": "Trevor Daniel - Falling",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
   "id": 73129934515522,
-    "title": "Light Switch",
+    "title": "Charlie Puth - Light Switch",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
@@ -205,126 +275,126 @@
 },
 {
   "id": 77223503905475,
-    "title": "One Kiss",
+    "title": "Calvin Harris Dua Lipa - One Kiss",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
   "id": 73113223348136,
-    "title": "IT WILL RAIN",
+    "title": "Bruno Mars - It Will Rain",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 115422362483915,
-    "title": "DANCING",
+    "title": "Aaron Smith - Dancin",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 129153835685243,
-    "title": "7 RINGS",
+    "title": "Ariana Grande - 7 rings",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 120028417197534,
-    "title": "WHEN I WAS YOUR MAN",
+    "title": "Bruno Mars - When I Was Your Man",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 75263947967260,
-    "title": "STAY",
+    "title": "The Kid LAROI Justin Bieber - Stay",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 112969426145583,
-    "title": "ENIE MEENIE",
+    "title": "Sean Kingston Justin Bieber - Eenie Meenie",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 103404600463054,
-    "title": "FAVORITE GIRL",
+    "title": "Justin Bieber - Favorite Girl",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 98752912550119,
-    "title": "IMPOSSIBLE",
+    "title": "James Arthur - Impossible",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 80466907305385,
-    "title": "BEAUTY AND A BEAT",
+    "title": "Justin Bieber  Nicki Minaj – Beauty And A Beat",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 125132523717028,
-    "title": "HEART ATTACK",
+    "title": "Demi Lovato - Heart Attack",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 87616279744182,
-    "title": "THE ONE THAT GOT AWAY",
+    "title": "The One That Got Away - Katy Perry",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 110529913279484,
-    "title": "ENCHANTED",
+    "title": "Taylor Swift - Enchanted",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 114673942157160,
-    "title": "THAT SHOULD BE ME",
+    "title": "Justin Bieber - That Should Be Me",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 113458246880847,
-    "title": "SNOOZEE",
+    "title": "SZA - Snooze",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 80059329384523,
-    "title": "SENORITA",
+    "title": "Shawn Mendes Camila Cabello - Señorita",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 101080915197739,
-    "title": "SMACKTHAT",
+    "title": "Akon - Smack That",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
 },
 {
     "id": 109364914374947,
-    "title": "THE EMPTINESS MACHINE",
+    "title": "Linkin Park - The Emptiness Machine",
     "category": "ALLSONGS",
     "length": 240,
     "playbackSpeed": 0.5
@@ -545,111 +615,6 @@
     "id": 105354194013984,
     "title": "MERINDUMU LAGI - POP PUNK",
     "category": "ALLSONGS",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 81480679253705,
-    "title": "HARDCORE - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 114351467287225,
-    "title": "BARUDAK DROP - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 70898763660876,
-    "title": "BANTAY - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 116917999997319,
-    "title": "380 XSD - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 124577215889883,
-    "title": "MELEHOY - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 129372852412394,
-    "title": "MUNKS BBHC RAVE",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 71546725287492,
-    "title": "MENYE - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 123001966097032,
-    "title": "NYUNGSEP - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 82049746821574,
-    "title": "GOYANG - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 96622338606016,
-    "title": "ASOY - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 130903827565877,
-    "title": "NGEBUL - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 112883462115094,
-    "title": "GACOR - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 140112181759284,
-    "title": "KENCENG - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 127881886211021,
-    "title": "SERDADU - BBHC",
-    "category": "MIX",
-    "length": 240,
-    "playbackSpeed": 1
-    },
-    {
-    "id": 126732699385741,
-    "title": "DIPERCHAOS - BBHC",
-    "category": "MIX",
     "length": 240,
     "playbackSpeed": 1
     },
